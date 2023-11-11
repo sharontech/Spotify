@@ -1,0 +1,207 @@
+*{
+  margin: 0; 
+  padding: 0; 
+  box-sizing: border-box;
+  font-family: 'poppins'sans-serif;
+}
+.main{
+   background-color: black;
+   height: 80px;
+   color: #ffff;  
+   padding: 3rem 1rem;
+   
+}
+nav{
+   display: flex;
+   justify-content: space-between;
+   
+
+}
+.navlinks a{
+   padding-right: 20px;
+   margin-right:20px ;
+   color:white ;
+}
+ image{
+   text-align: center;
+
+
+}
+.img1{
+   text-align: center;
+   color: #000;
+   background-color:#1ed760;
+   height: 100%;
+}
+ .btn{
+   background-color: #ffff;
+   font-size: 20px;
+   cursor: all-scroll;
+   color:#000;
+   border-radius: 40px;
+   padding:20px ;
+   border:2px solid white ;
+   
+
+ }
+ 
+ .navlinks a:hover{
+   color: #1ed760;
+
+ }
+ .line{
+   display: inline-block;
+   width: 1px;
+   height: 1rem;
+   background-color:white ;
+   
+ }
+ .play{
+   padding: 15px;
+ }
+ page{
+   text-align: center;
+ }
+ .page1{
+   text-align: center;
+   padding: 25px;
+   margin: 2px;
+   justify-content: baseline;
+ }
+ .page2{
+   text-align: center;
+ }
+ .buttonpage{
+   padding:25px ;
+   color: #000;
+   
+ }
+ .container{
+   text-align: center;
+   background-color: white;
+   margin-top: 20px;
+   
+ }
+ speaker{
+  text-align: center;
+  width:300px ;
+  height: 400px;
+  padding:10px ;
+   
+ }
+ 
+ .listen{
+   text-align: center;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-size: 20px;
+ }
+   .fill{
+   display: flex;
+   padding:20px ;
+   justify-content: center;
+ }
+ 
+  
+ 
+ .container2{
+  background-color: rgba(8, 8, 8, 0.794);
+  color: #ffff;
+  text-align: center;
+ }
+ .spotify{
+  color: #ffff;
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  font: size 20px; 
+  width: 100%;
+  padding-top:60px ;
+ }
+ 
+ .logo2{
+  color:white;
+ }
+
+ .first{
+  color: #ffff;
+  padding-top: 10px;
+  font-size: 20px;
+ }
+
+ .use{
+  color: white;
+  display: flex;
+  margin-left:10% ;
+  margin-top: 5%;
+  font-weight:lighter ;
+  margin-bottom:10% ;
+ }
+  h6{
+    margin:10px;
+  }
+
+ .item1{
+  padding: 10px; 
+ }
+ .base{
+  margin-left:20px ;
+  list-style: disc;
+  font-size: 25px;
+  margin-right:20px ;
+  
+  
+ }
+ .base1{
+  margin-left:20px ;
+  list-style: disc;
+  font-size: 25px;
+  padding-bottom: 10px;
+ }
+ .zee{
+  display:grid;
+  grid-template-columns: auto auto auto auto auto ;
+  padding-top: 100px;
+
+ }
+
+ 
+
+ li a{
+  color: #1ed760;
+  
+ }
+
+ li{
+  list-style-type: none;
+ }
+ .item5 {
+  padding: 20px;
+  
+  
+ }
+ .fa-brands{
+  color: #ffff;
+  font-size:40px ;
+ 
+
+  
+ }
+  .icon{
+    padding: 10px;
+    background-color:rgb(44, 43, 43) ;
+    border-radius: 50%;
+    color: white;
+
+      }
+  .free{
+    background-color: #000;
+    height:550px;
+  }
+  .item2, .item3, .item4{
+    text-align: start;
+    font-size:15px ;
+  }
+  .first1{
+    color: rgb(174, 172, 172);
+    font-size:20px ;
+  }
+ 
